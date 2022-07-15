@@ -1,7 +1,5 @@
-# decoder-ring-javascript
+# GrubDash Backend
 
-This is a project I have with Thinkful course - using Node JS and Express to build backend for a order-taking sites. I reapplied the same project with Knex and built the front-end of the website.
+This is a project I have with Thinkful course - using Node JS and Express to build backend for a order-taking sites.
 
-You can find the back-end project here: 
-
-You can find the front-end project here: 
+You can look at the deployed front-end site here: https://starter-grub-dash-front-end-eight.vercel.app/
